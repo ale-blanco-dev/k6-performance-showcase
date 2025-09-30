@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "k6-performance-showcase"
+  }
+}
